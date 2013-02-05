@@ -31,8 +31,8 @@ long_desc = open(root_dir + '/README.md').read()
 setup(
     name='python-meli',
     version=version,
-    url='https://bitbucket.org/mathiasbc/python-meli',
-    download_url='https://mathiasbc@bitbucket.org/mathiasbc/python-meli.git',
+    url='https://github.com/mathiasbc/python-meli',
+    download_url='git://github.com/mathiasbc/python-meli.git',
     author='Mathias Bustamante',
     author_email='mathias@worldrat.com',
     license='BSD License',
