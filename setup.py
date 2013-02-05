@@ -32,7 +32,7 @@ setup(
     name='python-meli',
     version=version,
     url='https://github.com/mathiasbc/python-meli',
-    download_url='git://github.com/mathiasbc/python-meli.git',
+    download_url='https://github.com/mathiasbc/python-meli/tarball/master',
     author='Mathias Bustamante',
     author_email='mathias@worldrat.com',
     license='BSD License',

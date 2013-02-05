@@ -16,11 +16,7 @@ Features
 Installation
 ------------
 
-    (pip install | easy_install) python-meli
-
-... or, you can clone the repo and install it the old fashioned way
-
-    git clone https://mathiasbc@bitbucket.org/mathiasbc/python-meli.git
+    git clone https://github.com/mathiasbc/python-meli.git
     cd python-meli
     sudo python setup.py install
 
